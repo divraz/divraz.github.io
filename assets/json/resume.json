@@ -1,26 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Divyanshu Raj",
+    "label": "Student, Software Developer, Machine Learning Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "draj5@asu.edu",
+    "url": "https://divraz.github.io",
+    "summary": "Dedicated and versatile Software Development Engineer with a strong foundation in Java and Python, specializing in cloud-native architectures. Experienced in Amazon Web Services (AWS) and Google Cloud Platform (GCP) for scalable solutions. Skilled in microservices, data pipelines, and machine learning. Committed to continuous learning and passionate about creating efficient, innovative software solutions.",
+    
   },
   "work": [
     {

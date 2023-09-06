@@ -1,97 +1,96 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Divyanshu Raj
+    - name: Roles
+      value: Student, Software Developer, Machine Learning Engineer
+    - name: Email
+      value: draj5@asu.edu
+    - name: URL
+      value: https://divraz.github.io
+    - name: About Me
+      value: Dedicated and versatile Software Development Engineer with a strong foundation in Java and Python, specializing in cloud-native architectures. Experienced in Amazon Web Services (AWS) and Google Cloud Platform (GCP) for scalable solutions. Skilled in microservices, data pipelines, and machine learning. Committed to continuous learning and passionate about creating efficient, innovative software solutions.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science, Computer Science
+      institution: Arizona State University, Tempe, USA
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis Track of Intersection of Robotics and NLP
+        - Language-Conditioned Change-point Detection to Identify Sub-Tasks in Robotics Domains
+        
+    - title: Bachelor of Technology, Information Technology
+      institution: Indian Institute of Information Technology, Allahabad, India
+      year: 2013 - 2017
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Development Engineer Intern
+      institution: Amazon, Tempe, USA
+      year: May 2023 - Aug 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designed the architecture for Brand Customer Reviews (BCR) Auto Reply that establishes contact between a seller and the buyer of the product with critical reviews, automatically in an event-driven fashion with an AWS CICD pipeline.
+        - Reduced average latency from 200 ms to 2 ms on Opensearch queries used by BCR Auto Reply architecture.
+        - Handled the Migration of existing BCR architecture with detailed documentation and roll-back plan for all regions.
+        - Implementation of BCR Auto Reply architecture with S3 Bucket, AWS SQS Queue, AWS Serverless Lambda, AWS Dynamo database, and Elastic search with complete code coverage through unit tests and Integration tests in JAVA.
+        - Projected to benefit 1000+ customers over a sum of $100k on a monthly basis as they used a paid third-party tool to automate this before. The total cost for this feature on Amazon's end is $200 monthly with the optimized architecture.
+
+    - title: Software Development Engineer
+      institution: Streamoid Technologies, Bangalore, India
+      year: Jul 2017 - aug 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Designed, and developed a Data Ingestion pipeline using API first approach. FastAPI docker images deployed on Google Cloud Run for autoscaling, Google Datastore as a decoupling layer, and time series support. 90% reduction in operations.
+        - Enabled 20% faster data ingestion by clients (~20M entries daily) with an 80% increase in frequency, and 90% reduction in MySQL database CRUD functionality using delta updates based on time series data.
+        - Prepared system architecture and implemented a real-time scalable Data Processing pipeline, an event-driven, push-based architecture with a priority queue. Used RabbitMQ clusters, Redis, Google Kubernetes Engine, KEDA, AWS Lambda, and Google Cloud Run for a scalable processing pipeline. The pipeline is 20% faster than previous and has achieved a 40% cost reduction to $0.0001 per product .
+        - Semi-Supervised Text Classification, NER, and Text Generation with Transformers in Fashion space. Fine-tuned BERT with MLM and GPT2 with CLM with 15 Million fashion sentences and released the language models for downstream tasks.
+        - Improved and implemented a Transformers-based Text Classification pipeline that used a fine-tuned BERT model as a base layer with 72 classes and achieved 98% model accuracy, and 95% real-world accuracy.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Assistant
+      institution: Logos Labs, Ariona State University, Tempe, USA
+      year: jan 2023 - present
+      description:
+        - “Language-Conditioned Change-Point Detection to Identify Sub-Tasks in Robotics Domain” published at Articulate Robots workshop at RSS 2023. Continuing Thesis on this work.
+        - Training an Inverse semantic model for plan execution with Robotic-Human Interaction using T5. Designed an experiment with mini-grid, reinforcement learning, and BART to achieve this.
+    - title: Research Assistant
+      institution: CIDSE Labs, Ariona State University, Tempe, USA
+      year: aug 2022 - dec 2022
+      description:
+        - Strategy to prune Text Datasets to achieve SOTA using Transformer embeddings (Identifying Quality data points) Used SNLI and GLUE datasets. 
+        - Pruned them using 4 strategies (random, easy, hard, and equal ratio) and evaluate the model's accuracy. Uses, context vector, Kmeans clustering, RoBERTa mode
 
-- title: Honors and Awards
+- title: Teaching Experience
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Teaching Assistant
+      institution: Ariona State University, Tempe, USA
+      year: aug 2023 - present
+      description:
+        - Data Structures and Algorithms with Dr. Nakul Gopalan
+    - title: Teaching Assistant
+      institution: Ariona State University, Tempe, USA
+      year: jan 2023 - may 2023
+      description:
+        - Perception in Robotics with Dr. Nakul Gopalan
 
-- title: Academic Interests
-  type: nested_list
+- title: Activities and Achievements
+  type: time_table
   contents:
-    - title: Topic 1.
+    - year: 2020 - present
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+        - Writer for “Towards Data Science”, "Towards Dev" and “Analytics Vidhya” on medium. Several articles have been published with them.
+    - year: 2014
+      items: 
+        - All India Rank 193 in ACM ICPC 2014
+        
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - ● System Design ● Software Development ● Backend Development ● AWS ● Microservices Architecture ● Load Testing ● Data Ingestion ● Database Management ● Event-Driven Architecture ● Machine Learning ● Deep Learning ● Quantum Machine Learning ● Cloud Platforms ● Data Analysis ● Version Control ● Cloud Computing ● Teaching and Training ● Research ● Technical Writing ● Competitive Coding ● Git ● AWS CICD Pipeline ● AWS Opensearch ● AWS S3 Bucket ● AWS SQS Queue ● AWS Serverless Lambda ● AWS Dynamo Database ● AWS SNS Topic ● FastAPI ● Docker ● Google Cloud Run ● Google Datastore ● MySQL ● RabbitMQ ● Redis ● Google Kubernetes Engine ● Google Logging ● MongoDB ● Solr ● Robotics ● NLP ● Transformers ● BERT ● GPT ● T5 ● JAVA ● Python ● C++ ● LaTeX ● Communication ● Problem-Solving ● Teamwork ● Leadership ● Adaptability ● Time Management ● Critical Thinking ● Creativity ● Research Skills ● Writing Skills

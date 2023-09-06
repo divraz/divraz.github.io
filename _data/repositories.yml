@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - divraz
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - divraz/QUANTUM-ML
+  - divraz/Qualean
+  - divraz/experiments
+  - divraz/data_pruning
+  - divraz/eva
+  - divraz/END-NLP
+  - divraz/EVA6
+  - divraz/END2.0
+  - divraz/cse_310

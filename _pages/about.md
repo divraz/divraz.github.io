@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: ""
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Student, MS CS, ASU</p>
+    <p>Tempe, Arizona, USA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a dedicated and innovative software engineer with a solid foundation in Java and Python, specializing in cloud computing, microservices architecture, and machine learning. My career has been marked by successful roles at prominent tech companies, where I've excelled in designing cutting-edge software solutions that optimize performance and enhance user experiences. Beyond my technical expertise, I am a continuous learner who actively contributes to the tech community through technical writing, knowledge-sharing, and mentoring. I thrive on staying up-to-date with the latest industry trends and best practices, always seeking new ways to leverage technology for real-world impact. My unwavering commitment to excellence and my creative problem-solving approach make me a valuable asset in any technology-driven endeavor.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## <a href="\paintings">latest paintings</a>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=763782418041109125" height="388" width="236" frameborder="0" scrolling="no" ></iframe>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=763782418041109191" height="424" width="236" frameborder="0" scrolling="no" ></iframe>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=763782418041109141" height="440" width="236" frameborder="0" scrolling="no" ></iframe>
