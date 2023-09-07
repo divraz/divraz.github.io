@@ -7,7 +7,7 @@ first_name: Divyanshu
 middle_name: 
 last_name: Raj
 email: draj5@asu.edu
-img: 🥷
+image: 🥷
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A highly motivated software engineer with a passion for innovative problem-solving and a strong background in machine learning and cloud computing.
 footer_text: >
