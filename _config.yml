@@ -7,8 +7,9 @@ first_name: Divyanshu
 middle_name: 
 last_name: Raj
 email: draj5@asu.edu
+img: 🥷
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  A highly motivated software engineer with a passion for innovative problem-solving and a strong background in machine learning and cloud computing.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
