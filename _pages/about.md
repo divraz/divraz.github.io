@@ -19,9 +19,3 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a dedicated and innovative software engineer with a solid foundation in Java and Python, specializing in cloud computing, microservices architecture, and machine learning. My career has been marked by successful roles at prominent tech companies, where I've excelled in designing cutting-edge software solutions that optimize performance and enhance user experiences. Beyond my technical expertise, I am a continuous learner who actively contributes to the tech community through technical writing, knowledge-sharing, and mentoring. I thrive on staying up-to-date with the latest industry trends and best practices, always seeking new ways to leverage technology for real-world impact. My unwavering commitment to excellence and my creative problem-solving approach make me a valuable asset in any technology-driven endeavor.
-
-## <a href="\paintings">latest paintings</a>
-
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=763782418041109125" height="388" width="236" frameborder="0" scrolling="no" ></iframe>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=763782418041109191" height="424" width="236" frameborder="0" scrolling="no" ></iframe>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=763782418041109141" height="440" width="236" frameborder="0" scrolling="no" ></iframe>
