@@ -4,13 +4,13 @@
     - name: Name
       value: Divyanshu Raj
     - name: Roles
-      value: Student, Software Developer, Machine Learning Engineer
+      value: Software Developer, Machine Learning Engineer
     - name: Email
       value: draj5@asu.edu
     - name: URL
       value: https://divraz.github.io
     - name: About Me
-      value: Dedicated and versatile Software Development Engineer with a strong foundation in Java and Python, specializing in cloud-native architectures. Experienced in Amazon Web Services (AWS) and Google Cloud Platform (GCP) for scalable solutions. Skilled in microservices, data pipelines, and machine learning. Committed to continuous learning and passionate about creating efficient, innovative software solutions.
+      value: I am a full-stack software developer at Amazon Brand Experience and Excellence (BEE) Organization. I build and scale web applications using front-end frameworks like React, and Redux, and backend technologies like Java and Python. Experienced in Amazon Web Services (AWS) and Google Cloud Platform (GCP) for scalable solutions. Skilled in microservices, data pipelines, and machine learning. Committed to continuous learning and passionate about creating efficient, innovative software solutions.
 
 - title: Education
   type: time_table
@@ -19,8 +19,7 @@
       institution: Arizona State University, Tempe, USA
       year: 2022 - 2024
       description:
-        - Thesis Track of Intersection of Robotics and NLP
-        - Language-Conditioned Change-point Detection to Identify Sub-Tasks in Robotics Domains
+        - Thesis Track on Learning Temporally Composable Task Segmentations with Language
         
     - title: Bachelor of Technology, Information Technology
       institution: Indian Institute of Information Technology, Allahabad, India
@@ -30,38 +29,48 @@
 - title: Experience
   type: time_table
   contents:
+  - title: Software Developer
+      institution: Amazon, Tempe, USA
+      year: May 2024 - Present
+      description:
+        - Played a key role in launching Customized Audience Builder (CAB), a feature that enables brands to target specific audience segments (e.g., cart abandoners) with customized promotions, increasing engagement and conversion rates.
+        - Developed front-end using React, Redux, JavaScript, and Katal, ensuring a smooth and responsive user experience.
+        - Built and maintained backend systems in Java, utilizing AWS cloud services, using CloudFormation stacks in JavaScript, and integrated GraphQL (Datapath) APIs for scalable infrastructure. Also including Cradle, OpenSearch, and Andes.
+        - Collaborated across teams to ensure high performance and seamless integration of front-end and back-end services.
+        - Performed multiple system audits as per Amazon standards and contributed to making them compliant.
+
     - title: Software Development Engineer Intern
       institution: Amazon, Tempe, USA
       year: May 2023 - Aug 2023
       description:
         - Designed the architecture for Brand Customer Reviews (BCR) Auto Reply that establishes contact between a seller and the buyer of the product with critical reviews, automatically in an event-driven fashion with an AWS CICD pipeline.
-        - Reduced average latency from 200 ms to 2 ms on Opensearch queries used by BCR Auto Reply architecture.
+        - Reduced average latency from 200 ms to 2 ms on OpenSearch queries used by BCR Auto Reply architecture.
         - Handled the Migration of existing BCR architecture with detailed documentation and roll-back plan for all regions.
         - Implementation of BCR Auto Reply architecture with S3 Bucket, AWS SQS Queue, AWS Serverless Lambda, AWS Dynamo database, and Elastic search with complete code coverage through unit tests and Integration tests in JAVA.
         - Projected to benefit 1000+ customers over a sum of $100k on a monthly basis as they used a paid third-party tool to automate this before. The total cost for this feature on Amazon's end is $200 monthly with the optimized architecture.
 
     - title: Software Development Engineer
       institution: Streamoid Technologies, Bangalore, India
-      year: Jul 2017 - aug 2022
+      year: Jul 2017 - Aug 2022
       description:
         - Designed, and developed a Data Ingestion pipeline using API first approach. FastAPI docker images deployed on Google Cloud Run for autoscaling, Google Datastore as a decoupling layer, and time series support. 90% reduction in operations.
         - Enabled 20% faster data ingestion by clients (~20M entries daily) with an 80% increase in frequency, and 90% reduction in MySQL database CRUD functionality using delta updates based on time series data.
         - Prepared system architecture and implemented a real-time scalable Data Processing pipeline, an event-driven, push-based architecture with a priority queue. Used RabbitMQ clusters, Redis, Google Kubernetes Engine, KEDA, AWS Lambda, and Google Cloud Run for a scalable processing pipeline. The pipeline is 20% faster than previous and has achieved a 40% cost reduction to $0.0001 per product .
-        - Semi-Supervised Text Classification, NER, and Text Generation with Transformers in Fashion space. Fine-tuned BERT with MLM and GPT2 with CLM with 15 Million fashion sentences and released the language models for downstream tasks.
+        - Semi-supervised text Classification, NER, and Text Generation with Transformers in Fashion space. Fine-tuned BERT with MLM and GPT2 with CLM with 15 Million fashion sentences and released the language models for downstream tasks.
         - Improved and implemented a Transformers-based Text Classification pipeline that used a fine-tuned BERT model as a base layer with 72 classes and achieved 98% model accuracy, and 95% real-world accuracy.
 
 - title: Research Experience
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Logos Labs, Ariona State University, Tempe, USA
-      year: jan 2023 - present
+      institution: Logos Labs, Arizona State University, Tempe, USA
+      year: Jan 2023 - May 2024
       description:
-        - “Language-Conditioned Change-Point Detection to Identify Sub-Tasks in Robotics Domain” published at Articulate Robots workshop at RSS 2023. Continuing Thesis on this work.
-        - Training an Inverse semantic model for plan execution with Robotic-Human Interaction using T5. Designed an experiment with mini-grid, reinforcement learning, and BART to achieve this.
+        - Paper Accepted at IROS 2024, Learning Temporally Composable Task Segmentations with Language, showing, multiple behavior cloning policies that learn behaviors based on a language-conditioned high-dimensional change-point detection method outperform long-horizon policy learning approaches in achieving goals, by higher success rates on rollouts and improved sample efficiency. Published a dataset with 10,000 demonstrations using RLBench.
+        - Paper Accepted at RSS 2023 Workshop, Utilizing Language for Robot Learning, Language-Conditioned Change-Point Detection showing a novel approach for identifying sub-tasks in robotics domains by leveraging natural language instructions to map long trajectories to smaller trajectory fragments, achieving a significant improvement over baseline methods through extensive experimentation using a modified version of ALFRED dataset. [Paper]
     - title: Research Assistant
-      institution: CIDSE Labs, Ariona State University, Tempe, USA
-      year: aug 2022 - dec 2022
+      institution: CIDSE Labs, Arizona State University, Tempe, USA
+      year: Aug 2022 - Dec 2022
       description:
         - Strategy to prune Text Datasets to achieve SOTA using Transformer embeddings (Identifying Quality data points) Used SNLI and GLUE datasets. 
         - Pruned them using 4 strategies (random, easy, hard, and equal ratio) and evaluate the model's accuracy. Uses, context vector, Kmeans clustering, RoBERTa mode
@@ -70,13 +79,13 @@
   type: time_table
   contents:
     - title: Teaching Assistant
-      institution: Ariona State University, Tempe, USA
-      year: aug 2023 - present
+      institution: Arizona State University, Tempe, USA
+      year: Aug 2023 - present
       description:
         - Data Structures and Algorithms with Dr. Nakul Gopalan
     - title: Teaching Assistant
-      institution: Ariona State University, Tempe, USA
-      year: jan 2023 - may 2023
+      institution: Arizona State University, Tempe, USA
+      year: Jan 2023 - May 2023
       description:
         - Perception in Robotics with Dr. Nakul Gopalan
 
